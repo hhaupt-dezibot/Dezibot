@@ -1,5 +1,12 @@
 # Dezibot4 Lib
 
+---
+
+⚠️**This repo is deprecated. You can find the new repo [here](https://github.com/dezibot/dezibot)**⚠️<br>
+⚠️**Dieses Repository ist veraltet. Das aktuelle Repository findet ihr [hier](https://github.com/dezibot/dezibot)⚠️**
+
+---
+
 ## Links to external documentation
 * [PDF-Doku Code](https://hardwarelabor.imn.htwk-leipzig.de/dezibot/dezibot.pdf)
 * [PDF-Doku Device](https://hardwarelabor.imn.htwk-leipzig.de/dezibot/dezibot-4doku.pdf)
